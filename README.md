@@ -19,6 +19,13 @@ Remarks
 -------
 Each directory contains separate project solution for MS Visual Studio 2013. Source code of the appropriate exercise programs are usually included in `/ConsoleApplication/Program.cs` file.
 
+Differences between C# and Java
+-------------------------------
+- http://stackoverflow.com/a/295248
+- http://en.wikipedia.org/wiki/Comparison_of_C_Sharp_and_Java
+- http://msdn.microsoft.com/en-us/library/ms836794.aspx
+- http://rayli.net/blog/popular/top-10-differences-between-java-and-c/
+
 Resources
 ---------
 - [C# Reference](http://msdn.microsoft.com/en-us/library/618ayhy6.aspx)
