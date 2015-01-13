@@ -17,7 +17,7 @@ C# Naming Conventions
 
 Remarks
 -------
-Each directory contains separate project solution for MS Visual Studio 2013. Source code of the appropriate exercise programs are usually included in `ConsoleApplication/ConsoleApplication/Program.cs` file.
+Each directory contains separate project solution for MS Visual Studio 2013. Source code of the appropriate exercise programs are usually included in `/ConsoleApplication/Program.cs` file.
 
 Resources
 ---------
