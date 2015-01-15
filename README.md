@@ -26,7 +26,7 @@ Differences between C# and Java
 - http://msdn.microsoft.com/en-us/library/ms836794.aspx
 - http://rayli.net/blog/popular/top-10-differences-between-java-and-c/
 
-Eements available in C#, but unavailable in Java
+Elements available in C#, but unavailable in Java
 ------------------------------------------------
 - operator overloading
 - indexers
