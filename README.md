@@ -35,7 +35,7 @@ Eements available in C#, but unavailable in Java
 - namespaces
 - structures
 - coalescing operator `??`
-- null-conditional Operator `?.` in C# 6.0
+- null-conditional operator `?.` in C# 6.0
 
 List created basing on: http://www.blackwasp.co.uk/CSharpObjectOriented.aspx
 
