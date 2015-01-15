@@ -39,7 +39,7 @@ Eements available in C#, but unavailable in Java
 
 List created basing on: http://www.blackwasp.co.uk/CSharpObjectOriented.aspx
 
-**Please note**: this list maybe incomplete and may contain mistakes. It needs to be reviewed and updated if necessary.
+**Please note**: this list may be incomplete and may contain mistakes. It needs to be reviewed and updated if necessary.
 
 Resources
 ---------
