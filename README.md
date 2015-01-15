@@ -43,5 +43,6 @@ Resources
 ---------
 - [C# Reference](http://msdn.microsoft.com/en-us/library/618ayhy6.aspx)
 - [C# Fundamentals - BlackWasp Tutorial](http://www.blackwasp.co.uk/CSharpFundamentals.aspx)
+- [C# Object-Oriented Programming - BlackWasp Tutorial](http://www.blackwasp.co.uk/CSharpObjectOriented.aspx)
 - [Best Place to learn C# - reddit](http://www.reddit.com/r/learnprogramming/comments/18it9q/best_place_to_learn_c/)
 - [Getting Started with ASP.NET MVC 5](http://www.asp.net/mvc/overview/getting-started/introduction/getting-started)
